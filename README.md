@@ -1,4 +1,4 @@
-# MP1-hangy6-tian23 Distributed Log Querier
+# Distributed Log Querier
 
 ## Description
 A Go distributed log querier with concurrency and fault tolerance that allows you to query distributed log files on multiple machines from any one of those machines. This project is implemented by hangy6(Hang Yu) and tian23(Tian Luan).
